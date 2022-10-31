@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [privacy-policy]()
 - [screen-menu](screens/menu)
 - [react-native-maps](modules/maps)
+- [react-native-chat](modules/chat)
 
 # Getting started: Frontend
 
